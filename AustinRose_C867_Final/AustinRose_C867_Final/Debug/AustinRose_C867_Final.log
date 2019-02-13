@@ -1,0 +1,17 @@
+﻿  networkStudent.cpp
+  roster.cpp
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(13): error C2109: subscript requires array or pointer type
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(24): error C3863: array type 'double [3]' is not assignable
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(92): error C2511: 'void Student::setDays(double *[])': overloaded member function not found in 'Student'
+  c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.h(6): note: see declaration of 'Student'
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(93): error C2671: 'Student::setDays': static member functions do not have 'this' pointers
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(94): error C2671: 'Student::setDays': static member functions do not have 'this' pointers
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(95): error C2671: 'Student::setDays': static member functions do not have 'this' pointers
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(97): error C2671: 'Student::setDays': static member functions do not have 'this' pointers
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(99): error C2671: 'Student::setDays': static member functions do not have 'this' pointers
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(117): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\austin\source\repos\austinrose_c867_final\austinrose_c867_final\student.cpp(118): error C3863: array type 'double [3]' is not assignable
+  Generating Code...
